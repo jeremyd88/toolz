@@ -1,6 +1,6 @@
 # TOOLZ Script Collection
 
-## This is a large collection of bash shell scripts do various things in subject areas incliding;
+## This is a large collection of bash shell scripts that do various things in subject areas including;
 
 - Crypto
 - Blockchain infrastructure (nodes, seeders, etc)
@@ -14,5 +14,5 @@
 - virtual machines
 - coding
 - cyberscecurity
-- more!
+- More!
 
